@@ -1,0 +1,38 @@
+body{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container{
+    display: flex;
+}
+
+.box{
+    margin:10px;
+}
+
+#a{
+    background-color: blueviolet;
+    height:330px;
+    width: 100px;
+}
+
+#b{
+    background-color: blueviolet;
+    height:240px;
+    width: 100px;
+}
+
+#c{
+    background-color: blueviolet;
+    height:100px;
+    width: 100px;
+}
+
+#d{
+    background-color: blueviolet;
+    height:180px;
+    width: 100px;
+}
