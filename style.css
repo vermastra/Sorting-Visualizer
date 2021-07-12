@@ -1,38 +1,39 @@
 body{
-    display:grid;
-    justify-content: center;
-    align-items: center;
-    
+    margin:0px;
+    padding: 0px;
+}
+.buttons-div{
+    margin: 10px;
+    padding: 10px;
+}
+#box{
+    margin-left: 10px;
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
 }
 
-.container{
+#sortbtn{
+    height: 28px;
+    width: 100px;
+    margin: 10px;
+}
+
+#btn{
+    height: 30px;
+    width: 100px;
+}
+
+#container{
+    background-color: cadetblue;
     display: flex;
+    height: 90vh;
+    width: 100%;
 }
 
-.box{
-    margin:10px;
-}
-
-#a{
-    background-color: blueviolet;
-    height:330px;
-    width: 100px;
-}
-
-#b{
-    background-color: blueviolet;
-    height:240px;
-    width: 100px;
-}
-
-#c{
+.b{
+    margin:5px;
     background-color: blueviolet;
     height:100px;
-    width: 100px;
-}
-
-#d{
-    background-color: blueviolet;
-    height:180px;
     width: 100px;
 }
