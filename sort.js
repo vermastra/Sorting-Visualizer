@@ -52,5 +52,4 @@ sortbtn.addEventListener('click', function sorting() {
             }
 
         }
-        console
 })
